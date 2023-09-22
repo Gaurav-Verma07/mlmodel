@@ -9,6 +9,8 @@ Original file is located at
 **Define Models to be used for Synthetic Data Generation - CTGAN and TVAE**
 """
 
+sdv==0.18.0
+
 import pandas as pd
 import numpy as np
 import time
