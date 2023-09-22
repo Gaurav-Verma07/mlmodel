@@ -13,7 +13,7 @@ import pandas as pd
 import numpy as np
 import time
 
-!pip install sdv==0.18.0
+pip install sdv==0.18.0
 
 from sdv.tabular import TVAE
 from sdv.tabular import CTGAN
